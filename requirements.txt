@@ -1,31 +1,6 @@
-# ferramentas de build
-build-essential
-python3-dev
-pkg-config
-meson
-ninja-build
-cmake
-
-# cairo para pycairo/rlpycairo
-libcairo2
-libcairo2-dev
-libffi-dev
-
-# imagens e fontes (bom para Pillow/reportlab)
-libjpeg-dev
-zlib1g-dev
-libpng-dev
-libfreetype6-dev
-libfontconfig1
-libxrender1
-libxext6
-libharfbuzz-dev
-libfribidi-dev
-
-# XML (útil p/ parsers)
-libxml2-dev
-libxslt1-dev
-
-# extras de imagem (opcional)
-libopenjp2-7
-libtiff5
+streamlit
+xhtml2pdf
+reportlab
+Pillow
+openpyxl
+pandas
